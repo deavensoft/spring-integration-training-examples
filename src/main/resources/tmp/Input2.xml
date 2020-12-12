@@ -1,0 +1,7 @@
+<persons>
+  <person>
+    <firstName>Arnold</firstName>
+    <lastName>Muller</lastName>
+    <age>55</age>
+  </person>
+</persons>

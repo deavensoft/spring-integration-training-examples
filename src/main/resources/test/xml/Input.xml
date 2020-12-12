@@ -1,0 +1,16 @@
+<persons>
+  <person>
+    <firstName>Peter</firstName>
+    <lastName>Smith</lastName>
+    <age>35</age>
+  </person>
+  <person>
+    <firstName>Anne</firstName>
+    <lastName>Frank</lastName>
+    <age>28</age>
+  </person>
+  <person>
+    <firstName>John</firstName>
+    <lastName>Doe</lastName>
+  </person>
+</persons>
